@@ -23,9 +23,6 @@ STORM TASK MANAGER — высокоинформативный диспетчер
 1. Скачайте инсталлятор `STORM_TASK_MANAGER_<версия>_Setup.exe` или архив `STORM_TASK_MANAGER_<версия>.zip` из раздела **Releases** на GitHub.
 2. Запустите приложение с правами Администратора для полного доступа ко всем системным процессам.
 
-## **Безопасность и цифровые подписи**
-Подписано сертификатом **CN=STORM SOFT, O=STORM EDEN** (SHA-256 Authenticode).
-
 ## **Благодарности**
 - **Mark Russinovich (Sysinternals)** — за архитектуру Process Explorer.
 - **wj32 и команда Process Hacker / System Informer** — за открытые наработки в области системного инспектирования Windows.

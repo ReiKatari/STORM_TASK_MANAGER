@@ -45,3 +45,10 @@ node_modules/
 google-credentials.json
 *credential*.json
 
+
+# Additional ignores
+google-credentials.json
+.env
+node_modules/
+build/
+.svelte-kit/
