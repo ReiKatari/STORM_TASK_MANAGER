@@ -1,0 +1,8 @@
+{
+  "server": "SRV-SQL.example.lan",
+  "database": "database_name",
+  "user": "username",
+  "password": "",
+  "vpnUser": "",
+  "vpnPassword": ""
+}

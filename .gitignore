@@ -68,3 +68,7 @@ installer/Output/
 *.tmp*
 *.wal
 
+
+# Runtime data & secret settings
+data/settings.json
+data/logs.json
